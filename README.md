@@ -1,4 +1,4 @@
 # animatedMenuCSS
-examplor in css
+example in css
 
 Menu con pura animacion en CSS
